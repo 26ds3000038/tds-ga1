@@ -1,17 +1,1 @@
-{
-  "A": {
-    "response": "Report job-b59913bc: café\nReady ✓",
-    "complete": true,
-    "error": null
-  },
-  "B": {
-    "response": "Partial job-b59913bc",
-    "complete": false,
-    "error": null
-  },
-  "C": {
-    "response": "Draft job-b59913bc",
-    "complete": false,
-    "error": "model unloaded"
-  }
-}
+{"A":{"text":"Report job-b59913bc: café\nReady ✓","complete":true,"error":null},"B":{"text":"Partial job-b59913bc","complete":false,"error":null},"C":{"text":"Draft job-b59913bc","complete":false,"error":"model unloaded"}}
